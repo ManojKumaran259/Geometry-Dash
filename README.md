@@ -1,5 +1,5 @@
   Game Development Project Overview
-Introduction
+Introduction :
 We developed a dynamic and engaging game using Unity Engine and Scratch assets, integrating multiple programming languages and creative design elements to enhance the player experience.
 
 Development Tools and Technologies
